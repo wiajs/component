@@ -1,4 +1,4 @@
-Chinese | [English](./README.md)
+中文 | [英文](./README.md)
 
 # Wia 组件库
 
